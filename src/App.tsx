@@ -8,7 +8,6 @@ const App = () => {
       common: string;
     }
     code: string;
-
   }
 
   const [query, setQuery] = useState<string>("");
